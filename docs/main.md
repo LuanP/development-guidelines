@@ -1,5 +1,6 @@
 #include "docs/project-description.md"
 #include "docs/general.md"
+#include "docs/git.md"
 #include "docs/database.md"
 #include "docs/api/main.md"
 #include "docs/workers.md"
