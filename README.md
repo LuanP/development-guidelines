@@ -180,7 +180,7 @@ Reference: [git-scm](https://git-scm.com/book/en/v2/Distributed-Git-Contributing
 
 #### Hapi API
 
-* [Hapi API Strucute Example](https://github.com/artth02/hapi-strucutre)
+* [Hapi API Structure Example](https://github.com/artth02/hapi-structure)
 ## Workers
 ## Frontend development
 
