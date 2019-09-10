@@ -9,6 +9,7 @@
     * [API development](#api-development)
     * [Node APIs](#node-apis)
       * [Koa API](#koa-api)
+      * [Hapi API](#hapi-api)
   * [Workers](#workers)
   * [Frontend development](#frontend-development)
     * [Web admins](#web-admins)
@@ -176,6 +177,10 @@ Reference: [git-scm](https://git-scm.com/book/en/v2/Distributed-Git-Contributing
 #### Koa API
 
 * [Yeoman generator for Koa API](https://github.com/LuanP/generator-labs-koa-api)
+
+#### Hapi API
+
+* [Hapi API Strucute Example](https://github.com/artth02/hapi-strucutre)
 ## Workers
 ## Frontend development
 
